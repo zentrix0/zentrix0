@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zentrix0
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML/Java
+- 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me Discord
 - 😄 Pronouns: he/him
