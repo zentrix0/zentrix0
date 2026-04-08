@@ -1,6 +1,6 @@
 # Hey, ich bin zentrix 👋
 
-Full-Stack Developer mit Fokus auf Discord Bots und Web Apps.
+Backend Developer mit Fokus auf Discord Bots und APIs.
 
 ## 💻 Tech Stack:
 
@@ -16,20 +16,19 @@ Full-Stack Developer mit Fokus auf Discord Bots und Web Apps.
 [![](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org/ "PostgreSQL")
 [![](https://skillicons.dev/icons?i=redis)](https://redis.io/ "Redis")
 
+### Tools & Services:
+[![](https://skillicons.dev/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm")
+[![](https://skillicons.dev/icons?i=figma)](https://www.figma.com/ "Figma")
+[![](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com/ "Cloudflare")
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/ "Discord")
+[![](https://skillicons.dev/icons?i=bots)](https://discord.dev/ "Discord Bots")
+
 ## 🚀 Projects:
 
 ### BlazeBot
-A powerful Discord Bot with a modern web dashboard built with Angular and FastAPI.
-
-**Features:**
-- Multi-service architecture
-- Web Dashboard
-- PostgreSQL + Redis backend
-
-**Stack:** discord.py | FastAPI | Angular | PostgreSQL | Redis
+A powerful Discord Bot with a modern web dashboard.
 
 **Links:**
-- 🤖 [Discord Invite](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID)
 - 🌐 [Dashboard](https://dash.blazebot.me)
 
 ---
