@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @zentrix0
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and HTML
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me Discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like Trains
+# Hey, ich bin zentrix 👋
 
-<!---
-zentrix0/zentrix0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Developer mit Fokus auf Discord Bots und Web Apps.
+
+## 💻 Tech Stack:
+
+### Languages:
+[![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
+
+### Frameworks & Libraries:
+[![](https://skillicons.dev/icons?i=discordpy)](https://discordpy.readthedocs.io/ "discord.py")
+[![](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/ "FastAPI")
+[![](https://skillicons.dev/icons?i=angular)](https://angular.io/ "Angular")
+
+### Databases:
+[![](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org/ "PostgreSQL")
+[![](https://skillicons.dev/icons?i=redis)](https://redis.io/ "Redis")
+
+## 🚀 Projects:
+
+### BlazeBot
+A powerful Discord Bot with a modern web dashboard built with Angular and FastAPI.
+
+**Features:**
+- Multi-service architecture
+- Web Dashboard
+- PostgreSQL + Redis backend
+
+**Stack:** discord.py | FastAPI | Angular | PostgreSQL | Redis
+
+**Links:**
+- 🤖 [Discord Invite](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID)
+- 🌐 [Dashboard](https://dash.blazebot.me)
+
+---
+
+*Always learning, always building.* 🔧
